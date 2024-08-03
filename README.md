@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [kaashiv portal](https://kaashiv.com/)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Blazor**
 
 - 👨‍💻 Visit My Portfolio [https://kalaivanan39.github.io/kalaivanan/](https://kalaivanan39.github.io/kalaivanan/)
 
