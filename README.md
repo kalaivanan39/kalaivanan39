@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaivanan39&label=Profile%20views&color=0e75b6&style=flat" alt="kalaivanan39" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalaivanan39" alt="kalaivanan39" /></a> </p>
-
 - 🌱 I’m currently learning **Blazor**
 
 - 👨‍💻 Visit My Porfolio Website [https://kalaivanan39.github.io/portfolio/](https://kalaivanan39.github.io/portfolio/)
