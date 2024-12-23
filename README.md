@@ -37,3 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalaivanan39&show_icons=true&locale=en" alt="kalaivanan39" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalaivanan39&" alt="kalaivanan39" /></p>
+
+📈 **Contributions:**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalaivanan39&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
