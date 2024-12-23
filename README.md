@@ -1,4 +1,4 @@
-https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif
+![My Banner GIF](https://mir-s3-cdn-cf.behance.net/project_modules/fs/be832922391491.58c25558f0fe7.gif)
 <h1 align="center">Hi 👋, I'm Kalaivanan</h1>
 <h3 align="center">A Passionate .NET Developer from India</h3>
 
